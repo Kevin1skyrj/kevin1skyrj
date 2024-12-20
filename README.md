@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin1skyrj&show_icons=true&locale=en" alt="kevin1skyrj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin1skyrj&" alt="kevin1skyrj" /></p>
+<p> <img width=390 src="https://streak-stats.demolab.com/?user=kevin1skyrj&count_private=true&theme=react&border_radius=10" alt="streak stats"/></p>
 
