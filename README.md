@@ -22,7 +22,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Backend Technology and Database Management**
+- 🌱 I'm currently learning **AI Engineering / Agentic Ai / React Native (App Development)**
 - 👯 I'm looking to collaborate on **Open Source Projects and Innovative Web Applications**
 - 💬 Ask me about **React, JavaScript, Node.js, and Web Development**
 - ⚡ Fun fact: **I love turning coffee into code and ideas into reality**
@@ -79,8 +79,10 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
 </div>
+
+
 
 ---
 
