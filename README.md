@@ -1,11 +1,13 @@
-<!-- Animated Banner -->
+<!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,26&height=200&section=header&text=Rajat%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20%26%20Node.js%20Enthusiast&descAlignY=55&descSize=18" />
+  <a href="https://animated-background-silk.vercel.app/" target="_blank">
+    <!-- Updated to use the new improved high-quality animated banner GIF -->
+    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Animated%20Banner-p96quMj2K4e2lFZLXXc2hHB8t2WXe4.gif" alt="Animated Banner" />
+  </a>
 </div>
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views and Followers -->
