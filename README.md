@@ -1,10 +1,14 @@
 <!-- Animated Header Banner -->
 <div align="center">
   <a href="https://animated-background-silk.vercel.app/" target="_blank">
-    <!-- Updated to use the new improved high-quality animated banner GIF -->
-    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Animated%20Banner-p96quMj2K4e2lFZLXXc2hHB8t2WXe4.gif" alt="Animated Banner" />
+    <!-- Increased size of animated banner -->
+    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Animated%20Banner-p96quMj2K4e2lFZLXXc2hHB8t2WXe4.gif" alt="Animated Banner" width="1000" height="350" />
   </a>
 </div>
+
+<!-- Portfolio Highlight -->
+
+<h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">www.rajatpandey.com</a></h3>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
