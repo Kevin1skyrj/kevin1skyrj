@@ -1,18 +1,11 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <a href="https://animated-background-silk.vercel.app/" target="_blank">
-    <!-- Increased size of animated banner -->
-    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Animated%20Banner-p96quMj2K4e2lFZLXXc2hHB8t2WXe4.gif" alt="Animated Banner" width="1000" height="350" />
-  </a>
-</div>
 
-<!-- Portfolio Highlight -->
-
-<h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">www.rajatpandey.com</a></h3>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
+<h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">www.rajatpandey.com</a></h3>
+
 
 <!-- Profile Views and Followers -->
 <p align="center">
@@ -42,10 +35,15 @@
 ### 🌟 Project Showcase Coming Soon!
 I'm currently working on some exciting projects that I'll be showcasing here soon. Stay tuned!
 
-**What I'm building:**
-- 🔥 **E-commerce Platform** - Full stack application with React & Node.js
-- 📱 **Task Management App** - Productivity tool with real-time updates
-- 🎨 **Portfolio Website** - Responsive design with modern UI/UX
+## 🚀 What I'm Building  
+
+- 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**  
+- 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**  
+- 📱 **[Job Application Tracker](#)** – Track job applications, set goals & manage productivity  
+- 🎨 **[Portfolio Website](#)** – Responsive, modern **UI/UX design** to showcase my work  
+- 🧠 **[MeetSmart](#)** – AI-powered **meeting summarizer & action tracker**  
+- ✅ **[TruthCheck](#)** – AI-driven **fact-checker** for news & articles  
+
 
 ---
 
@@ -55,27 +53,46 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+### 🤖 AI Engineering (Learning GenAI)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%20AI-ff9900?style=for-the-badge&logo=meta&logoColor=white)
+
 
 ## 📊 GitHub Statistics
 
