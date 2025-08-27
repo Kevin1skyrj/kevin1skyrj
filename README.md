@@ -102,8 +102,9 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
+
 
 
 
