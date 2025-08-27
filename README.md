@@ -102,8 +102,12 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9&v=2" 
+    alt="GitHub Streak" 
+  />
 </div>
+
 
 
 
@@ -121,8 +125,12 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevin1skyrj&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kevin1skyrj&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&v=2" 
+    alt="GitHub Trophies" 
+  />
 </p>
+
 
 ---
 
