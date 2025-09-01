@@ -182,7 +182,3 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 
 ---
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,26&height=100&section=footer"/>
-</div>
