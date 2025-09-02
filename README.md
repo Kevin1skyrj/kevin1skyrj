@@ -145,16 +145,16 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajat-pandey-2584" target="_blank">
+  <a href="https://www.linkedin.com/in/rajatpandey24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/@skyrj9140" target="_blank">
+  <a href="https://x.com/Rajat_P_21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/rajatpandey2584" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/rajatpandey2584" target="_blank">
+  <a href="https://www.hackerrank.com/profile/skyrj9140" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://discordapp.com/users/rajatpandey2584" target="_blank">
