@@ -175,10 +175,3 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 
 ---
 
-<div align="center">
-  <h3>🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
-  <p>Thanks for visiting my profile! Let's connect and build something amazing together! 🌟</p>
-</div>
-
----
-
