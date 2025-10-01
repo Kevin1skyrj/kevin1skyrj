@@ -1,7 +1,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">www.rajatpandey.com</a></h3>
