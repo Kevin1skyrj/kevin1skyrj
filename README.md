@@ -38,9 +38,7 @@ I'm currently working on some exciting projects that I'll be showcasing here soo
 ## 🚀 What I'm Building  
 
 - 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**  
-- 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**  
-- 📱 **[Job Application Tracker](#)** – Track job applications, set goals & manage productivity  
-- 🎨 **[Portfolio Website](#)** – Responsive, modern **UI/UX design** to showcase my work  
+- 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**    
 - 🧠 **[MeetSmart](#)** – AI-powered **meeting summarizer & action tracker**  
 - ✅ **[TruthCheck](#)** – AI-driven **fact-checker** for news & articles  
 
