@@ -30,11 +30,6 @@
 
 ---
 
-## 🛠️ Featured Projects
-
-### 🌟 Project Showcase Coming Soon!
-I'm currently working on some exciting projects that I'll be showcasing here soon. Stay tuned!
-
 ## 🚀 What I'm Building  
 
 - 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**  
