@@ -160,11 +160,3 @@
 
 ---
 
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
-</p>
-
----
-
