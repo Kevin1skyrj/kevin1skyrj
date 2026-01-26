@@ -46,27 +46,22 @@ const rajat = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css" alt="Frontend Skills" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase,supabase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,firebase,postman,postgres" alt="Backend Skills" />
 </p>
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel,netlify,vscode" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,kubernetes,netlify,vscode" alt="DevOps Skills" />
 </p>
 
 ### Cloud & Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,figma" alt="Cloud Skills" />
-</p>
-
-### Programming Languages & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,npm,vite" alt="Cloud Skills" />
 </p>
 
 </div>
@@ -75,8 +70,8 @@ const rajat = {
 ## 📈 Github Statictics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevin1skyrj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin1skyrj&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin1skyrj&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin1skyrj&layout=compact&langs_count=8&theme=react&border_radius=10&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
