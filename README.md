@@ -1,10 +1,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi%2C+I'm+Rajat+Pandey;Full+Stack+Developer;React+%26+Node.js+Developer;" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">www.rajatpandey.com</a></h3>
+<h3 align="center">🚀 Check out my portfolio: <a href="https://www.rajatpandey.com/">Portfolio</a></h3>
 
 
 <!-- Profile Views and Followers -->
@@ -30,12 +30,12 @@
 
 ---
 
-## 🚀 What I'm Building  
+<!-- ## 🚀 What I'm Building  
 
 - 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**  
 - 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**    
 - 🧠 **[MeetSmart](#)** – AI-powered **meeting summarizer & action tracker**  
-- ✅ **[TruthCheck](#)** – AI-driven **fact-checker** for news & articles  
+- ✅ **[TruthCheck](#)** – AI-driven **fact-checker** for news & articles   -->
 
 
 ---
@@ -127,13 +127,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kevin1skyrj/kevin1skyrj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
+--- -->
 
 ## 🤝 Connect with Me
 
@@ -143,12 +143,6 @@
   </a>
   <a href="https://x.com/Rajat_P_21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/rajatpandey2584" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/skyrj9140" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://discordapp.com/users/rajatpandey2584" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
