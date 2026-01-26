@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <h3 align="center">Full Stack Developer | DevOps Enthusiast | Building scalable web solutions</h3>
 
@@ -13,30 +12,28 @@
 
 ```typescript
 const rajat = {
-    role: "Full Stack Developer",
-    specialization: ["Web Development", "DevOps", "Cloud Infrastructure"],
-    currentFocus: "AI Engineering & Agentic AI",
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "PostgreSQL", "Prisma"],
-        devops: ["Docker", "GitHub Actions", "CI/CD"],
-        learning: ["React Native", "AI/ML", "LangChain"]
-    },
-    currentProjects: ["Full Stack Web Apps", "AI-Powered Tools"],
-    openTo: ["Collaboration", "Open Source", "Freelance"],
-    funFact: "I turn coffee ☕ into code 💻",
-    contact: "rajatpndey257@gmail.com"
+  role: "Full Stack Developer",
+  specialization: ["Web Development", "DevOps", "Cloud Infrastructure"],
+  currentFocus: "AI Engineering & Agentic AI",
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "PostgreSQL", "Prisma"],
+    devops: ["Docker", "GitHub Actions", "CI/CD"],
+    learning: ["React Native", "AI/ML", "LangChain"],
+  },
+  currentProjects: ["Full Stack Web Apps", "AI-Powered Tools"],
+  openTo: ["Collaboration", "Open Source", "Freelance"],
+  funFact: "I turn coffee ☕ into code 💻",
+  contact: "rajatpndey257@gmail.com",
 };
 ```
 
+<!-- ## 🚀 What I'm Building
 
-<!-- ## 🚀 What I'm Building  
-
-- 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**  
-- 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**    
-- 🧠 **[MeetSmart](#)** – AI-powered **meeting summarizer & action tracker**  
+- 🔥 **[E-commerce Platform](#)** – Full stack application with **React/Next.js**, **PostgreSQL** & **Prisma**
+- 🚖 **[CabShare NITRKL](#)** – Ride-sharing web app for students, enabling **group cab booking & cost splitting**
+- 🧠 **[MeetSmart](#)** – AI-powered **meeting summarizer & action tracker**
 - ✅ **[TruthCheck](#)** – AI-driven **fact-checker** for news & articles   -->
-
 
 ---
 
@@ -45,21 +42,25 @@ const rajat = {
 <div align="center">
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css" alt="Frontend Skills" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,firebase,postman,postgres" alt="Backend Skills" />
 </p>
 
 ### Tools & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,kubernetes,netlify,vscode" alt="DevOps Skills" />
 </p>
 
 ### Cloud & Integration
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,npm,vite" alt="Cloud Skills" />
 </p>
@@ -67,6 +68,7 @@ const rajat = {
 </div>
 
 ---
+
 ## 📈 Github Statictics
 
 <div align="center">
@@ -75,10 +77,7 @@ const rajat = {
 </div>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=react&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideLabels=C9D1D9&v=2" 
-    alt="GitHub Streak" 
-  />
+<img src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&stroke=f5c2e7&ring=89b4fa&fire=f5c2e7&currStreakLabel=f5c2e7&sideNums=cdd6f4&currStreakNum=cdd6f4&dates=cdd6f4&sideLabels=cdd6f4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -99,7 +98,6 @@ const rajat = {
     alt="GitHub Trophies" 
   />
 </p>
-
 
 ---
 
@@ -129,4 +127,3 @@ const rajat = {
 </p>
 
 ---
-
