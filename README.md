@@ -10,23 +10,24 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<pre style="font-size:16px; line-height:1.45;">
-<span style="color:#7aa2f7;">const</span> <span style="color:#c0caf5;">rajat</span> = {
-  <span style="color:#9ece6a;">role</span>: <span style="color:#f7768e;">"Full Stack Developer"</span>,
-  <span style="color:#9ece6a;">specialization</span>: <span style="color:#e0af68;">["Web Development", "DevOps", "Cloud Infrastructure"]</span>,
-  <span style="color:#9ece6a;">currentFocus</span>: <span style="color:#f7768e;">"AI Engineering & Agentic AI"</span>,
-  <span style="color:#9ece6a;">technologies</span>: {
-    <span style="color:#7dcfff;">frontend</span>: <span style="color:#e0af68;">["React", "Next.js", "TypeScript", "Tailwind CSS"]</span>,
-    <span style="color:#7dcfff;">backend</span>: <span style="color:#e0af68;">["Node.js", "Express", "PostgreSQL", "Prisma"]</span>,
-    <span style="color:#7dcfff;">devops</span>: <span style="color:#e0af68;">["Docker", "GitHub Actions", "CI/CD"]</span>,
-    <span style="color:#7dcfff;">learning</span>: <span style="color:#e0af68;">["React Native", "AI/ML", "LangChain"]</span>,
+
+```typescript
+const rajat = {
+  role: "Full Stack Developer",
+  specialization: ["Web Development", "DevOps", "Cloud Infrastructure"],
+  currentFocus: "AI Engineering & Agentic AI",
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "PostgreSQL", "Prisma"],
+    devops: ["Docker", "GitHub Actions", "CI/CD"],
+    learning: ["React Native", "AI/ML", "LangChain"],
   },
-  <span style="color:#9ece6a;">currentProjects</span>: <span style="color:#e0af68;">["Full Stack Web Apps", "AI-Powered Tools"]</span>,
-  <span style="color:#9ece6a;">openTo</span>: <span style="color:#e0af68;">["Collaboration", "Open Source", "Freelance"]</span>,
-  <span style="color:#9ece6a;">funFact</span>: <span style="color:#f7768e;">"I turn coffee ☕ into code 💻"</span>,
-  <span style="color:#9ece6a;">contact</span>: <span style="color:#f7768e;">"rajatpndey257@gmail.com"</span>,
+  currentProjects: ["Full Stack Web Apps", "AI-Powered Tools"],
+  openTo: ["Collaboration", "Open Source", "Freelance"],
+  funFact: "I turn coffee ☕ into code 💻",
+  contact: "rajatpndey257@gmail.com",
 };
-</pre>
+```
 
 
 
