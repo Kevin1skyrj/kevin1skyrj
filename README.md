@@ -83,35 +83,6 @@ const rajat = {
 <img src="https://streak-stats.demolab.com?user=kevin1skyrj&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&stroke=f5c2e7&ring=89b4fa&fire=f5c2e7&currStreakLabel=f5c2e7&sideNums=cdd6f4&currStreakNum=cdd6f4&dates=cdd6f4&sideLabels=cdd6f4" alt="GitHub Streak" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin1skyrj&theme=react-dark&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kevin1skyrj&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&v=2" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
----
-
-<!-- ## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kevin1skyrj/kevin1skyrj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
---- -->
-
 ## 🤝 Let's Connect
 
 <div align="center">
